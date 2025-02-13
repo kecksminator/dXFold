@@ -1,2 +1,2 @@
 # dXFold
-Ppredict your protein structure with your Aminoacid sequemce
+Ppredicts protein structure with your Aminoacid-sequence
